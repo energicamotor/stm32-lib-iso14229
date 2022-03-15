@@ -8,4 +8,4 @@ An implementation of the ISO-14229 protocol in a platform agnosteic C library.
 
 How to use:
 - Include the header file `lib-iso14229.h`.
-- Define `iso14229_t`, create and attach the required shim/callbacks (`on_opening` `on_unlocking` `on_closing`) of the handler.
+
