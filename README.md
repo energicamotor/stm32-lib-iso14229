@@ -8,4 +8,6 @@ An implementation of the ISO-14229 protocol in a platform agnosteic C library.
 
 How to use:
 - Include the header file `lib-iso14229.h`.
+- Use `iso14229_init()`
+- Use `iso14229_process()`
 
